@@ -1,0 +1,13 @@
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe.config
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.csprojResolveAssemblyReference.cache
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.Properties.Resources.resources
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.MainArea.resources
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.csproj.GenerateResource.Cache
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.exe
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\bin\Debug\FairManagementApp.pdb
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.exe
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.pdb
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.VisitorEntry.resources
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.ZoneSpeceficVisitorDetails.resources
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.ZoneTypeEntry.resources
+E:\MY ESSENTIAL FOLDER\CLASS WORK\BITM Class\Home Exrcise\FairManagementApp\FairManagementApp\obj\Debug\FairManagementApp.UI.ZoneTypeWiseVisitorNumber.resources
